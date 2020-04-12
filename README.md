@@ -66,5 +66,5 @@ python3.7 script.py
     }
 
 ```
- [ ] filtering data by the last updates 
- [ ] showing the output like a table (world meter) - with colors 
+- [ ] filtering data by the last updates 
+- [ ] showing the output like a table (world meter) - with colors 
